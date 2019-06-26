@@ -1,6 +1,6 @@
 question={
     'If x=8, then what is the value of 4(x+3)?':[35,36,40,44,4],
-    'Jack scored these marks in 5 math tests : 49, 81, 72, 66 and 52. What is the mean?':[55,65,75,85,2]
+    'Jack scored these marks in 5 math tests : 49, 81, 72, 66 and 52. What is the mean?':['about 55','about 65','about 75','about 85',2]
 }
 correct=0
 for key in question:
